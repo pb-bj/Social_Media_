@@ -1,8 +1,8 @@
-
 const App = () => {
   return (
-    <div>App</div>
+    <div>Socaial media</div>
   )
 }
 
+//  login sigin home-> 3 side left - 
 export default App
