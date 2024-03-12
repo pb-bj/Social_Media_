@@ -1,6 +1,6 @@
 const App = () => {
   return (
-    <div>Socaial media</div>
+    <div>Social</div>
   )
 }
 
